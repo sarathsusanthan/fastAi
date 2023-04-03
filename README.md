@@ -8,5 +8,5 @@ This is another pargraph
 
 ##More details
 
--first
--second
+- first
+- second
